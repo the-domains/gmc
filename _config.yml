@@ -1,0 +1,28 @@
+name: gmc
+favicon: null
+layout_spectrum: 0.8145953402854502
+typography_spectrum: 0.15880839014425874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3559845667332411
+  lightness: 0.22408074070699513
+  saturation: 0.17590462905354798
+  rhythmicContrast: 0.5985110292676836
+purpose: []
