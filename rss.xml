@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gmc]]></title>
+        <description><![CDATA[gmc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 22:03:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 15]]></title>
+            <description><![CDATA[<p>https://www.yahoo.com/news/trump-uses-word-rape-discussing-bill-clinton-034403254--election.html</p>]]></description>
+            <link>undefinedtest-15/index.html</link>
+            <guid isPermaLink="false">0483c651-e8be-4246-9241-cfad76184d47</guid>
+            <pubDate>Thu, 19 May 2016 22:03:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
